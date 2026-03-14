@@ -11,7 +11,7 @@
 
 ## What Is This?
 
-PayAgent AI removes the "Trust Gap" in freelance work. Instead of employers and freelancers arguing over whether a milestone was completed, two AI agents negotiate on their behalf — one representing the employer, one the freelancer — and a third AI arbitrator delivers a final verdict. Payment releases automatically based on the score.
+Verdikt AI removes the "Trust Gap" in freelance work. Instead of employers and freelancers arguing over whether a milestone was completed, two AI agents negotiate on their behalf — one representing the employer, one the freelancer — and a third AI arbitrator delivers a final verdict. Payment releases automatically based on the score.
 
 No human middleman. No payment delays. No biased judgements.
 
